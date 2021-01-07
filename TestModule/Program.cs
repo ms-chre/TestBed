@@ -79,7 +79,7 @@ namespace TestModule
             }
             catch (Exception)
             {
-                Console.WriteLine("Exception !!!!!");
+                Console.WriteLine("Exception outside method!!!!!");
             }
             return Task.FromResult(MessageResponse.Completed);
         }
@@ -96,7 +96,7 @@ namespace TestModule
             }
             catch (Exception)
             {
-                Console.WriteLine("Exception !!!!!");
+                Console.WriteLine("Exception inside method!!!!!");
             }
             
         }
