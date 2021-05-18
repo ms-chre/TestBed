@@ -1,0 +1,20 @@
+{
+    "body": "eyJtdCI6ImhlYXJ0YmVhdCIsInN0Ijoic3BhY2VzIiwicGsiOiIiLCJwdiI6IjEuMCIsInYiOjIsImNvbnRyb2xsZXJJZCI6IkhpdmUtTmxpZ2h0IiwidXRjVGltZXN0YW1wIjoiMjAyMS0wNC0yMlQwNjoyMTozOS4xNDctMDc6MDAifQ==",
+    "properties": {
+      "$.cdid": "d633d6fa-8e6a-4b61-b5e5-c8122cf6bc1a",
+      "$.contentType": "application%2Fjson",
+      "$.contentEncoding": "utf-8",
+      "mt": "heartbeat",
+      "st": "spaces"
+    },
+    "systemProperties": {
+      "correlation-id": "f9b3d49b-8fd8-40a8-aa3a-bc7f86b84cfe",
+      "message-id": "5fdeda18-5cb5-4b52-9e2d-e1ec232dfafb",
+      "iothub-content-type": "UTF-8",
+      "iothub-connection-device-id": "Hive-Nlight",
+      "iothub-connection-auth-method": "{\"scope\":\"device\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+      "iothub-connection-auth-generation-id": "637461405530332761",
+      "iothub-enqueuedtime": "04/22/2021 13:21:59",
+      "iothub-message-source": "Telemetry"
+    }
+  }
